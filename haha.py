@@ -17,8 +17,8 @@ API_ID = 36740762
 API_HASH = '0b57d4e8b9708863562c53a969a33d48'    
 PHONE = '+959883836676'            
 MY_CHANNEL = '@triplex3333' 
-SESSION_STRING = 'သင်၏_TELEGRAM_STRING_SESSION_ကို_ဒီမှာထည့်ပါ'
-RSS_FEED_URL = 'https://mmhdhub.com' 
+SESSION_STRING = '1BVtsOI8BuzCin22K0OgEs5Q7fvwO0LkBYndCn9fUvfFOUMSlK-aLLwQLcXmIHJbqxsdcVsXoJWQTRtUbVtNm_hnS9wWzqKDosytkd83GNbcSXlbCW1MfyiMyOmX2HtDnKe8fNVOUIl-tOLBgB_a4jnipTpeeglNiJuCdRtiLCL607nV_8OmpZ8O1_sG4dTN_5yqq0hS59Yee8EK7gaclyJnpDLfbV8SKTZvmPCua2uRGxBCWej_wwWQWOL0qv6F76ywP1KHT-udQjC3HZh0xKNy-xhUIKi2-EIH3TxG5P58Gsdcy4JvQEzuKPTbZApT_pon-_G1SYDXDwxv1cmo5U2_taNcxNS8='
+RSS_FEED_URL = 'https://mmhdhub.com/feed' 
 
 client = TelegramClient(StringSession(SESSION_STRING), API_ID, API_HASH)
 
